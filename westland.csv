@@ -1,10 +1,11 @@
-De Lier
-'s-Gravenzande
-Honselersdijk
-Kwintsheul
-Maasdijk
-Monster
-Naaldwijk
-Poeldijk
-Ter Heijde
-Wateringen
+,city,lat,lon
+0,De Lier,51.9751843,4.2471322
+1,'s-Gravenzande,52.0028294,4.1603759
+2,Honselersdijk,52.0093169,4.2300007
+3,Kwintsheul,52.0152893,4.2555884
+4,Maasdijk,51.9575497,4.2149056
+5,Monster,51.9625101,7.6251879
+6,Naaldwijk,51.9963306,4.2059633
+7,Poeldijk,52.0237541,4.2179213
+8,Ter Heijde,52.0300423,4.167942
+9,Wateringen,52.0235098,4.2745855
